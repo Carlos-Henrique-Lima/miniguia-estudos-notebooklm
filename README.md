@@ -1,14 +1,14 @@
-# miniguia-estudos-notebooklm
-Guia de estudo projeto DIO  de uso de IA - exemplo do dia a dia!
+# miniguia-estudos-notebooklm - TEMA: Guia de magias e combos para mago ilusionista para RPG no D&D versão 5E. 
+Guia de estudo projeto DIO com uso de uso de IA!
 
 
 # Contexto e Objetivos:
-Este projeto visa vislumbrar - introduzir o uso de Ia no contexto de problema - contexto a ser estudado e, definindo escopo isolado do projeto, abordar assunto de forma a não divagar sobre ele, e com escopo bem definido, procurar apresentar atalhos e fontes/ ferramentas em como criar um mago ilusionista em uma campanha de RPG de mesa no formato D&D 5e.
+Este projeto visa vislumbrar - introduzir o uso de Ia no contexto de problema a ser estudado e, definindo escopo isolado do projeto, abordar assunto de forma a não divagar sobre ele, e com escopo bem definido, procurar apresentar atalhos e fontes/ ferramentas em como criar um mago ilusionista em uma campanha de RPG de mesa no formato D&D 5e.
 
 
-# Engenharia de Prompts e "Cicatrizes":
+# Engenharia de Prompts usada:
 
-- Engenharia de Prompts usada, na ordem:
+- Engenharia de Prompts usada, basendo-se em perguntas nas fontes levantadas, sendo essas, na ordem:
 1 - Quais magias são as melhores, de cada circulo/ nível, para um mago ilusionista? Liste fontes usando o Guia de Aprendizado.
 2 - Quais combos possíveis com magias de ilusão são possíveis de fazer com um mago ilusionista de nível 19, usando sinergia de ação padrão e ação rápida em um turno?
 3 - Quais combos com magias são possíveis de fazer com um mago ilusionista de nível 19, usando sinergia de ação padrão de ilusão e ação rápida usando outras escolas de magia em um turno?
