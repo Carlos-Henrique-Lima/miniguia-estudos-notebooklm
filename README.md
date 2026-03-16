@@ -9,6 +9,12 @@ Este projeto visa vislumbrar - introduzir o uso de Ia no contexto de problema - 
 # Engenharia de Prompts e "Cicatrizes":
 
 - Engenharia de Prompts usada, na ordem:
+1 - Quais magias são as melhores, de cada circulo/ nível, para um mago ilusionista? Liste fontes usando o Guia de Aprendizado.
+2 - Quais combos possíveis com magias de ilusão são possíveis de fazer com um mago ilusionista de nível 19, usando sinergia de ação padrão e ação rápida em um turno?
+3 - Quais combos com magias são possíveis de fazer com um mago ilusionista de nível 19, usando sinergia de ação padrão de ilusão e ação rápida usando outras escolas de magia em um turno?
+4 - Levando em consideração os combos acima, nas regras de D&D 5e, podemos fazer somente uma magia de 1 a 9 círculo por rodada. Como ficariam os combos usando essa restrição?
+5 - Levando em consideração os combos acima, nas regras de D&D 5e, podemos fazer somente uma magia de 1 a 9 círculo por rodada. Como ficariam os combos usando essa restrição? Lembrando que minor illusion para o mago ilusionista é ação bônus e, que pelas regras, por sem cantrip, pode ser feita no mesmo turno que uma magia de 1 a 9 circulo for conjurada como ação padrão.
+6 - Quais itens mágicos aumentam o CD das minhas ilusões?
 
 
 - Dificuldades ("cicatrizes") encontradas:
@@ -20,20 +26,18 @@ Esse projeto no NotebookLM tem como objetivo definir uma ficha de um personagem 
 
 - Resumos estruturados do assunto:
 
-Com links na web de resumos de comunidades e videos, obtivemos as fontes focadas no mago e no mago ilusionista para o sistema 5e:
+Verificar documento "D&D 2024 Wizard and Illusionist Comprehensive Study Guide", que foi obtido baseado nas fontes onde foi abordado:
 
-- O que é um mago no D&D 5e;
-- O que é um mago ilusionista no D&D 5e;
-- Caracteristicas do mago ilusionista no D&D 5e;
-- Magias gerais de mago no D&D 5e;
-- Magias gerais para mago ilusionista no D&D 5e;
+O que é um mago no D&D 5e;
+O que é um mago ilusionista no D&D 5e;
+Caracteristicas do mago ilusionista no D&D 5e que podem apoiar uso de magias;
+Magias gerais de mago no D&D 5e;
+Magias gerais para mago ilusionista no D&D 5e;
+Itens de apoio a magias para foco no mago ilusionista para D&D 5e;
 
+Na nota "Domínio da Irrealidade: Estratégias Avançadas para o Ilusionista Nível 19" no NotebookLM, temos: Combos possíveis com mago ilusionista só com magias de ilusão no D&D 5e;
 
-- Glossário com os principais conceitos aprendidos:
-
-- Combos possíveis com mago ilusionista só com magias de ilusão no D&D 5e;
-- Combos possíveis com mago ilusionista com foco em magias de ilusão e outras magias de outras escolas como apoio no D&D 5e;
-
+Na nota "Domínio da Miragem: Estratégias do Mago Ilusionista de Nível 19" no NotebookLM, temos os combos possíveis com mago ilusionista com foco em magias de ilusão e outras magias de outras escolas como apoio no D&D 5e;
 
 
 - Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
