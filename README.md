@@ -12,7 +12,7 @@ Este projeto visa vislumbrar - introduzir o uso de Ia no contexto de problema - 
 
 
 - Dificuldades ("cicatrizes") encontradas:
-Ao definir prompts, houve a necessidade de adaptar as perguntas com as regras do jogo, ou seja, antes de responder o que um mago ilusionista pode ou não fazer, houve necessidade de incluir regras nas perguntas feitas para adpatar ao devido, ao correto aceitável ao trazer resultado das perguntas necessárias usando IA.  
+Ao definir prompts, houve a necessidade de adaptar as perguntas com as regras do jogo, ou seja, antes de responder o que um mago ilusionista pode ou não fazer, houve necessidade de incluir regras nas perguntas feitas para adpatar ao devido (como não importei livro de regras - a IA usou o que tinh de fontes), ao correto aceitável ao trazer resultado das perguntas necessárias usando IA.  
 
 
 # Miniguia de Estudo (Entrega Final):
