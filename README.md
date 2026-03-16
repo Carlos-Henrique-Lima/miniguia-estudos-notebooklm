@@ -16,20 +16,29 @@ Ao definir prompts, houve a necessidade de adaptar as perguntas com as regras do
 
 
 # Miniguia de Estudo (Entrega Final):
-Com objetivo de definir uma ficha de um personagem mago ilusionista equilibrado, foram usados prompts - as perguntas com objeivo de ser o mais assertivo possível 
+Esse projeto no NotebookLM tem como objetivo definir uma ficha de um personagem mago ilusionista equilibrado, com foco em combos e magias pré selecionadas que a IA ajudou a selecionar. Os prompts (perguntas) foram usadas com o objeivo de ser o mais assertivo possível na escolha da  lista e em combos possíveis com essa lista, seja com magias de ilusão ou demais escolas. 
 
 - Resumos estruturados do assunto:
+
+Com links na web de resumos de comunidades e videos, obtivemos as fontes focadas no mago e no mago ilusionista para o sistema 5e:
+
+- O que é um mago no D&D 5e;
+- O que é um mago ilusionista no D&D 5e;
+- Caracteristicas do mago ilusionista no D&D 5e;
+- Magias gerais de mago no D&D 5e;
+- Magias gerais para mago ilusionista no D&D 5e;
 
 
 - Glossário com os principais conceitos aprendidos:
 
+- Combos possíveis com mago ilusionista só com magias de ilusão no D&D 5e;
+- Combos possíveis com mago ilusionista com foco em magias de ilusão e outras magias de outras escolas como apoio no D&D 5e;
+
+
 
 - Conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema:
 
-Resumir - trazer fontes de regras adptadas para o modelo 5e e 5e de 2024 pois, como houveram atualizações nas regras de jogo, adptações de regras são necessárias e isso varia de mesa para mesa de RPG;
+Resumir - trazer fontes de regras adptadas para o modelo 5e e 5e de 2024 pois, como houveram atualizações nas regras de jogo, adptações de regras são necessárias e isso varia de mesa para mesa de RPG (exemplo: magia conjure minor elementals de 2014 teve alteração dastrica na versão 2024 da mesma edição 5E);
 
-
-# CONCLUSÃO:
-
-
+Considerar regras da casa - adptações que são aceitas pelo mestre da campanha de RPG (magia simulacro foi banida - não permitida na maioria das mesas);
 
